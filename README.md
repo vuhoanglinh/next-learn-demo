@@ -36,7 +36,7 @@ There are two ways to start using this repository:
   
 
 ## References
-- Dive deep to documents will help custom for your own project https://nextjs.org/docs
+- Dive deep to documents will help customize for your own project https://nextjs.org/docs
 - [A curated list of awesome resources about using Next.js](https://github.com/unicodeveloper/awesome-nextjs)
 - [FAQ](https://nextjs.org/docs#faq)
 - [Community](https://spectrum.chat/next-js)
