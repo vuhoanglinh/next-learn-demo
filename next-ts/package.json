@@ -1,0 +1,22 @@
+{
+  "name": "next-ts",
+  "version": "1.0.0",
+  "description": "next typescript",
+  "author": "vuhoanglinh2002@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "@types/react": "^16.9.6",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
